@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:NewApp/NewApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AccountModule/AccountModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ShoppingModule/ShoppingModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ProductModule/ProductModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OfferModule/OfferModule.xcodeproj">
+   </FileRef>
+</Workspace>
